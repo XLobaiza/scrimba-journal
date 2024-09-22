@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <section>
+      <section className='carrousell'>
         {cards}
       </section>
     </div>

@@ -21,8 +21,8 @@ export default [
     },
     {
         id: 3,
-        title: "Mount Fuji",
-        location: "Japan",
+        title: "Geirangerfjord",
+        location: "Norway",
         googleMapsUrl: "https://maps.app.goo.gl/R2XRRYS3ihxnCqKSA",
         startDate: "01 Oct, 2021",
         endDate: "18 Nov, 2021",

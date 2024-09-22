@@ -22,11 +22,13 @@
 .card{
   display: flex;
   align-items: center;
+  padding: 0px 30px;
+  padding-bottom: 36px;
 }
 .card > img {
   width: 150px;
   height: 200px;
-  border-radius: 6px;
+  border-radius: 6px;  
 }
 .card-content{
   display: flex;

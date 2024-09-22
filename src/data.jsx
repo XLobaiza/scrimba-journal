@@ -1,5 +1,6 @@
 export default [
     {
+        id: 1,
         title: "Mount Fuji",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
@@ -9,6 +10,7 @@ export default [
         imageUrl: "https://scrimba.com/links/travel-journal-japan-image-url"
     },
     {
+        id: 2,
         title: "Sydney Opera Housei",
         location: "Australia",
         googleMapsUrl: "https://maps.app.goo.gl/GpeX5Yo2TUVFmYUXA",
@@ -18,6 +20,7 @@ export default [
         imageUrl: "https://scrimba.com/links/travel-journal-australia-image-url"
     },
     {
+        id: 3,
         title: "Mount Fuji",
         location: "Japan",
         googleMapsUrl: "https://maps.app.goo.gl/R2XRRYS3ihxnCqKSA",

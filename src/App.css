@@ -22,7 +22,6 @@
 .card{
   display: flex;
   align-items: center;
-  border: 1px color red;
 }
 .card > img {
   width: 125px;
